@@ -1,13 +1,14 @@
 +++ 
 author = "Andrew Weisbeck" 
 title = "Andrews Journal" 
-date = "2023-06-03" 
+date = "2023-06-07" 
 description = "Daily entries from my journal." 
 tags = [ "journal", ] 
 categories = [ "journal", ] 
 image = "prettycliff.jpg" 
 +++
 
+This is a placeholder post for June 8th, 2023. It helps my site look better deployed. 
 # Andrews Journal
 
 - # Sunday

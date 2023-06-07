@@ -1,13 +1,14 @@
 +++ 
 author = "Andrew Weisbeck" 
 title = "Another Day in My Life" 
-date = "2023-06-04" 
-description = "Daily entries from my journal." 
+date = "2023-06-07" 
+description = "This entry will be completed later today." 
 tags = [ "journal", ] 
 categories = [ "journal", ] 
 image = "prettyforest.jpg" 
 +++
 
+This is a placeholder post for June 7th, 2023 - it helps the site look nice.
 # Another Day in My Life
 
 - # Tuesday
