@@ -1,13 +1,14 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: Hugeaux Journal is a website made by Andrew Weisbeck to track his coding journey in 2023
+date: '2023-06-07'
 aliases:
   - about-us
-  - about-hugo
+  - about-Hugeaux
   - contact
+  - about-andrew
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2023-06-07'
 menu:
     main: 
         weight: -90
